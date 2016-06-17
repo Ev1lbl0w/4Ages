@@ -1,4 +1,7 @@
-# 4Ages ![License](https://img.shields.io/badge/License-Apache_v2.0-lightgrey.svg)
+# 4Ages 
+[![Build Status](https://api.travis-ci.org/Ev1lbl0w/4Ages.svg?branch=master)](https://travis-ci.org/Ev1lbl0w/4Ages)
+[![Appveyor Build Status](https://ci.appveyor.com/api/projects/status/github/Ev1lbl0w/4Ages?branch=master&svg=true)](https://ci.appveyor.com/project/Ev1lbl0w/4Ages)
+![License](https://img.shields.io/badge/License-Apache_v2.0-lightgrey.svg)
 An open-source online strategy game with a twist!
 
 ### Releases
