@@ -1,0 +1,12 @@
+Material Top1 : Common/MatDefs/Light/Lighting.j3md {
+     MaterialParameters {
+        DiffuseMap : Textures/trees/top01.png
+        AlphaDiscardThreshold : 0.5
+     }
+    AdditionalRenderState {
+      FaceCull Back
+      DepthWrite On
+      Blend Alpha
+      ColorWrite On
+    }
+}

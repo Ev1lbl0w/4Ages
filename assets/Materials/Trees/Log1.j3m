@@ -1,0 +1,10 @@
+Material My Material : Common/MatDefs/Light/Lighting.j3md {
+     MaterialParameters {
+        DiffuseMap : Repeat Textures/trees/tronco01.jpg
+     }
+    AdditionalRenderState {
+      FaceCull Back
+      DepthWrite On
+        ColorWrite On
+    }
+}

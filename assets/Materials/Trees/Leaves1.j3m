@@ -1,0 +1,18 @@
+Material Leaves1 : Common/MatDefs/Light/Lighting.j3md {
+     MaterialParameters {
+        DiffuseMap : Flip Textures/trees/tree01.png
+        UseVertexColor : false
+        UseMaterialColors : false
+        VertexLighting : false
+        AlphaDiscardThreshold : 0.4
+     }
+    AdditionalRenderState {
+      FaceCull Back
+      DepthWrite On
+      Blend Alpha
+      ColorWrite On
+      DepthTest On
+      AlphaTestFalloff 0.0
+      Wireframe Off
+    }
+}
