@@ -4,7 +4,7 @@ An open-source online strategy game with a twist!
 ### Releases
 No release has been made yet.
 
-#### Dependencies
+### Dependencies
 "4Ages" uses jMonkeyEngine 3.1 as it main engine. All dependencies are located in the "libs" folder. Just add them to the project's libraries.
 
 ### Contributors
