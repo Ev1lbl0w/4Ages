@@ -12,6 +12,7 @@ No release has been made yet.
  - **Luís Ferreira** - Project configuration and Graphics Designer
  - **Francisco Jordão** - Graphics Designer
  - **Filipe Laíns** - Gerneral Contributor
+ - **jedaplay** - Tree model (http://tf3dm.com/3d-model/trees-low-poly-57984.html)
 
 Want to contribute? Great! Make a pull request on my github repository.
 
